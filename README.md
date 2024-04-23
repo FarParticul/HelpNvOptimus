@@ -83,7 +83,7 @@ afterward:
 * su
 * envycontrol -s hybrid --rtd3 #(1, 2, 3. detailed [CLICK](https://github.com/bayasdev/envycontrol)
 * reboot
-*** Nvidia ***
+***Nvidia***
 * su
 * envycontrol -s nvidia --dm #(any dm(gdm,lightdm, sddm)) --coolbits #(detailed [CLICK](https://github.com/bayasdev/envycontrol)) --verbose --force-comp #(PRIME Synchronization)
 * reboot
